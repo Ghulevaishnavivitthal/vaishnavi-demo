@@ -1,2 +1,3 @@
 # vaishnavi-demo
-this is my first Repository
+This is my first Git Repository.
+By- Vaishnavi Ghule
